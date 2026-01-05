@@ -1,0 +1,32 @@
+id,text,hate_label,fake_label,source,category
+1,"I hate those people they are so stupid and should just disappear",1,0,HASOC,hate_speech
+2,"BREAKING: Scientists discover aliens living among us! You won't believe what happens next!",0,1,LIAR,fake_news
+3,"The weather is really nice today",0,0,HASOC,normal
+4,"SHOCKING: Government hiding truth about secret technology that will change everything",0,1,FakeNewsNet,fake_news
+5,"Why do these idiots even exist? The world would be better without them",1,0,Davidson,hate_speech
+6,"Local school announces new scholarship program for students",0,0,LIAR,normal
+7,"You are all terrible human beings and I wish harm upon you",1,0,HASOC,hate_speech
+8,"EXCLUSIVE: Celebrity reveals shocking secret that will blow your mind",0,1,FakeNewsNet,fake_news
+9,"I love reading books and learning new things",0,0,HASOC,normal
+10,"Those people are worthless and should be eliminated",1,0,Davidson,hate_speech
+11,"URGENT: Breaking news that will shock the entire world",0,1,LIAR,fake_news
+12,"Technology has improved our lives significantly",0,0,Davidson,normal
+13,"I can't stand these morons they make me sick",1,0,Hatebase,hate_speech
+14,"You won't believe what this doctor discovered! Click to see the amazing results",0,1,FakeNewsNet,fake_news
+15,"Education is important for everyone",0,0,Davidson,normal
+16,"These people are disgusting and should not be allowed to exist",1,0,HASOC,hate_speech
+17,"INCREDIBLE: This one simple trick will change your life forever!",0,1,LIAR,fake_news
+18,"Have a great day everyone!",0,0,HASOC,normal
+19,"I hope something bad happens to all of them",1,0,Davidson,hate_speech
+20,"SECRET: What they don't want you to know about this topic",0,1,LIAR,fake_news
+21,"Thank you for your help with this project",0,0,HASOC,normal
+22,"They are the worst kind of people imaginable",1,0,Davidson,hate_speech
+23,"AMAZING: Discover the hidden truth that will shock you",0,1,FakeNewsNet,fake_news
+24,"I appreciate your thoughtful comments",0,0,Davidson,normal
+25,"I despise everything about them",1,0,Hatebase,hate_speech
+26,"WARNING: This information will change everything you thought you knew",0,1,FakeNewsNet,fake_news
+27,"Let's work together to solve this problem",0,0,Davidson,normal
+28,"This is a terrible group of individuals who don't deserve respect",1,0,HASOC,hate_speech
+29,"MUST READ: The truth they've been hiding from you",0,1,LIAR,fake_news
+30,"This is an interesting topic to discuss",0,0,Hatebase,normal
+
