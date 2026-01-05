@@ -1,1 +1,1 @@
-# graph-augmented-natural-language-unnderstanding-for-hate-speech-with-fake-news-detection
+# graph-augmented-natural-language-understanding-for-hate-speech-with-fake-news-detection
